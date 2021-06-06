@@ -23,7 +23,7 @@ DevFinanceTS é um projeto feito em TypeScript com base no projeto dev.finance$ 
 
 use `yarn start` em /web para inicar o projeto.
 
-Tecnologias usadas no projeto:
+## ⚙ Tecnologias usadas no projeto:
 
 - [React](https://reactjs.org)
 - TypeScript
