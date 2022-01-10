@@ -15,10 +15,6 @@ DevFinanceTS é um projeto feito em TypeScript com base no projeto dev.finance$ 
 
 <img src="./preview/previewWebsite.png" />
 
-## 🚀 Deploy
-
-[DevFinanceTS](https://devfinance-ts.netlify.app)
-
 ## ❗ Importante
 
 use `yarn start` em /web para inicar o projeto.
